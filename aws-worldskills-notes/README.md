@@ -4,7 +4,7 @@ This comprehensive documentation project provides structured learning materials 
 
 **Target Audience:** WorldSkills State-Level Cloud Computing competitors  
 **Skill Level:** Beginner to Competition-ready  
-**Project Scope:** 9 modules covering Lambda, API Gateway, EC2, S3, VPC, ALB, RDS, Caching, and full integration scenarios
+**Project Scope:** 10 modules covering Lambda, API Gateway, EC2, S3, VPC, ALB, RDS, Caching, full integration scenarios, and IndiaSkills State-Level exam preparation
 
 ---
 
@@ -23,14 +23,15 @@ graph TD
     G --> H[07_rds: Managed Databases]
     H --> I[08_caching: Performance Optimization]
     I --> J[09_full_server_scenarios: Integration]
-    J --> K[Competition Ready]
+    J --> K[10_indskills: State-Level Exam Prep]
+    K --> L[Competition Ready]
 ```
 
 ---
 
 ## Module Structure
 
-The following table provides a comprehensive overview of all 9 modules, including key topics, file counts, estimated study time, and prerequisites.
+The following table provides a comprehensive overview of all 10 modules, including key topics, file counts, estimated study time, and prerequisites.
 
 | Module | Topics | Files | Time | Prerequisites |
 |--------|--------|-------|------|---------------|
@@ -43,8 +44,9 @@ The following table provides a comprehensive overview of all 9 modules, includin
 | 07_rds | Relational databases, Multi-AZ deployments, read replicas, backups, security | 5 | 5-6 hours | SQL basics |
 | 08_caching | ElastiCache, Redis, caching patterns, performance optimization | 4 | 3-4 hours | RDS knowledge |
 | 09_full_server_scenarios | End-to-end architectures, multi-tier applications, integration patterns | 4 | 10-12 hours | All previous modules |
+| 10_indskills | IndiaSkills State-Level exam preparation, Sikkim 2025 pattern, timed practice | 1 | 20-30 hours | Modules 03, 05, 06, 07, 08 |
 
-**Total Learning Time:** Approximately 49-62 hours of focused study and hands-on practice
+**Total Learning Time:** Approximately 69-92 hours of focused study and hands-on practice
 
 ---
 
@@ -305,6 +307,9 @@ Work through each module's `server_lab.md` file:
 ### Step 5: Finish with Integration Scenarios
 After completing modules 01-08, tackle the integration scenarios in [09_full_server_scenarios/](09_full_server_scenarios/) to practice building complete architectures under time constraints.
 
+### Step 6: IndiaSkills Exam Preparation (Optional)
+If preparing for IndiaSkills State-Level competitions, proceed to [10_indskills/](10_indskills/) for Sikkim 2025 pattern questions, timed practice, and marking criteria.
+
 ---
 
 ## Additional Resources
@@ -391,11 +396,11 @@ While every effort is made to ensure accuracy, AWS services change frequently. A
 
 ## Project Statistics
 
-- **Total Modules:** 9
+- **Total Modules:** 10
 - **Total Documentation Files:** 50+ markdown files
-- **Estimated Learning Time:** 49-62 hours
+- **Estimated Learning Time:** 69-92 hours
 - **Services Covered:** Lambda, API Gateway, EC2, S3, VPC, ALB, RDS, ElastiCache, CloudWatch, IAM, and more
-- **Lab Exercises:** 9 comprehensive hands-on labs
+- **Lab Exercises:** 9 comprehensive hands-on labs + IndiaSkills exam preparation
 - **Cost:** Free Tier eligible (approximately $0-$25 if managed properly)
 
 ---

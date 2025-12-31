@@ -152,6 +152,12 @@ pip3 install redis pymysql flask
 
 # Install MySQL client for testing
 sudo yum install -y mysql
+
+# Install Redis CLI for verification
+sudo yum install -y redis6
+
+# Install bc for performance test arithmetic
+sudo yum install -y bc
 ```
 
 4. **Create Application Directory**:
