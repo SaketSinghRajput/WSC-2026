@@ -226,6 +226,7 @@ Before starting this module, ensure you have:
 - **Part 1**: [Solved Past Questions](solved_questions/) - Start here to understand exam format
 - **Part 2**: [State-Level Practice](state_level_practice/) - Build foundational skills
 - **Part 3**: [State++ Practice](state_plus_practice/) - Master advanced scenarios
+- **Practice Labs**: Detailed click-by-click walkthroughs for all 15 questions are in [../practice/README.md](../practice/README.md) with level-specific indexes in [../practice/state_level/](../practice/state_level/) and [../practice/state++_level/](../practice/state++_level/)
 
 ---
 

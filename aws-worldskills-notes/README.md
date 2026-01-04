@@ -48,6 +48,11 @@ The following table provides a comprehensive overview of all 10 modules, includi
 
 **Total Learning Time:** Approximately 69-92 hours of focused study and hands-on practice
 
+### Practice Labs (Beginner Walkthroughs)
+- Hands-on, click-by-click guides for all 15 IndiaSkills practice questions
+- Start here for console navigation help, screenshot checkpoints, and troubleshooting
+- See [practice/README.md](practice/README.md) for the lab index and learning flow diagram
+
 ---
 
 ## How to Use These Notes

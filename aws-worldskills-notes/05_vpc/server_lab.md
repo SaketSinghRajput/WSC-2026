@@ -17,6 +17,8 @@ You are a systems architect designing a secure web application infrastructure. Y
 
 **Task**: Deploy a complete VPC (10.0.0.0/16) with public subnet (10.0.1.0/24), private subnet (10.0.2.0/24), internet connectivity, and security isolation. Verify all traffic flows and document the architecture.
 
+**Need a beginner, click-by-click version?** Follow the practice walkthrough in ../practice/state_level/q1_vpc_cidr.md for console navigation, screenshot checkpoints, and verification scripts aligned to this lab.
+
 ## Architecture Diagram
 
 ```mermaid
